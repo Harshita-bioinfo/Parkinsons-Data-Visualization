@@ -108,8 +108,8 @@ To reproduce the analysis:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/parkinsons-eda.git
-cd parkinsons-eda
+git clone https://github.com/Harshita-bioinfo/Parkinsons-Data-Visualization.git
+cd Parkinsons-Data-Visualization
 ```
 
 ### 2. Install Required Libraries
